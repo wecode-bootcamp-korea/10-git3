@@ -1,48 +1,20 @@
 <table>
       <tbody>
 	<tr>
-          <td>윤지영</td>
-          <td>윤지영</td>
-          <td>윤지영</td>
-          <td>윤지영</td>
-          <td>윤지영</td>
-        </tr>
+    <td>윤지영</td>
+    <td>윤지영</td>
+    <td>윤지영</td>
+    <td>윤지영</td>
+    <td>윤지영</td>
+  </tr>
 	<tr>
-	  <td>윤지영</td>
-	  <td>윤지영</td>
-	  <td>윤지영</td>
-	  <td>윤지영</td>
-	  <td>윤지영</td>
+	  <td>이지윤</td>
+	  <td>이지윤</td>
+	  <td>이지윤</td>
+	  <td>이지윤</td>
+	  <td>이지윤</td>
 	</tr>
-        <tr>
-<<<<<<< HEAD
-          <td>이상준</td>
-          <td>이상준</td>
-          <td>이상준</td>
-          <td>이상준</td>
-          <td>이상준</td>
-        </tr>
-        <tr>
-          <td>이상준</td>
-          <td>이상준</td>
-          <td>이상준</td>
-          <td>이상준</td>
-          <td>이상준</td>
-=======
-          <td>이지윤</td>
-          <td>이지윤</td>
-          <td>이지윤</td>
-          <td>이지윤</td>
-          <td>이지윤</td>
-        </tr>
-        <tr>
-          <td>이지윤</td>
-          <td>이지윤</td>
-          <td>이지윤</td>
-          <td>이지윤</td>
-          <td>이지윤</td>
->>>>>>> 29093efd2b5cc6f3df937c5117e5ec34cc425d68
-        </tr>
+      
       </tbody>
 </table>
 
